@@ -1,3 +1,5 @@
+Python_Challenge
+
 In this challenge, I was tasked with creating a Python script to analyze the financial records of a company. I giveN a set of financial data called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses". 
 My task was to create a Python script that analyzes the records to calculate each of the following:
 
